@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/excellenceInterview/static/css/main.055e64d3.chunk.css",
+    "main.js": "/excellenceInterview/static/js/main.d7ee85b1.chunk.js",
+    "main.js.map": "/excellenceInterview/static/js/main.d7ee85b1.chunk.js.map",
+    "runtime-main.js": "/excellenceInterview/static/js/runtime-main.b3f304f7.js",
+    "runtime-main.js.map": "/excellenceInterview/static/js/runtime-main.b3f304f7.js.map",
+    "static/js/2.b56b2f4b.chunk.js": "/excellenceInterview/static/js/2.b56b2f4b.chunk.js",
+    "static/js/2.b56b2f4b.chunk.js.map": "/excellenceInterview/static/js/2.b56b2f4b.chunk.js.map",
+    "index.html": "/excellenceInterview/index.html",
+    "static/css/main.055e64d3.chunk.css.map": "/excellenceInterview/static/css/main.055e64d3.chunk.css.map",
+    "static/js/2.b56b2f4b.chunk.js.LICENSE.txt": "/excellenceInterview/static/js/2.b56b2f4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f304f7.js",
+    "static/js/2.b56b2f4b.chunk.js",
+    "static/css/main.055e64d3.chunk.css",
+    "static/js/main.d7ee85b1.chunk.js"
+  ]
+}
